@@ -5,6 +5,7 @@
   <a href="https://testing-library.com/">
     <img width="150" height="150" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Feslint-plugin-testing-library?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Feslint-plugin-testing-library.svg?type=shield"/></a>
 
   <h1>eslint-plugin-testing-library</h1>
   <p>ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library</p>
@@ -588,3 +589,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [badge-svelte]: https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte&logoColor=white&labelColor=FF3E00&color=black
 [badge-vue]: https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js&logoColor=white&labelColor=4FC08D&color=black
 [badge-marko]: https://img.shields.io/badge/-Marko-black?style=flat-square&logo=marko&logoColor=white&labelColor=2596BE&color=black
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Feslint-plugin-testing-library.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Feslint-plugin-testing-library?ref=badge_large)
